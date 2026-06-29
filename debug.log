@@ -6,3 +6,14 @@
 [0618/123107.590:WARNING:net\dns\dns_config_service_win.cc:605] Failed to read DnsConfig.
 [0618/123117.600:WARNING:net\dns\dns_config_service_win.cc:605] Failed to read DnsConfig.
 [0618/123137.611:WARNING:net\dns\dns_config_service_win.cc:605] Failed to read DnsConfig.
+[0629/134630.362:ERROR:ui\gl\direct_composition_support.cc:612] AMD VideoProcessorGetOutputExtension failed: Unspecified error (0x80004005)
+[0629/135415.707:WARNING:ui\gl\angle_platform_impl.cc:52] Shader.cpp:774 (gl::Shader::resolveCompile): Compiler log: WARNING: 0:9: '=' : global variable initializers should be constant expressions (uniforms and globals are allowed in global initializers for legacy compatibility)
+
+[0629/135612.570:WARNING:ui\gl\angle_platform_impl.cc:52] Shader.cpp:774 (gl::Shader::resolveCompile): Compiler log: WARNING: 0:9: '=' : global variable initializers should be constant expressions (uniforms and globals are allowed in global initializers for legacy compatibility)
+
+[0629/203319.990:WARNING:ui\gl\angle_platform_impl.cc:52] Shader.cpp:774 (gl::Shader::resolveCompile): Compiler log: WARNING: 0:9: '=' : global variable initializers should be constant expressions (uniforms and globals are allowed in global initializers for legacy compatibility)
+
+[0629/215229.178:ERROR:gpu\ipc\client\command_buffer_proxy_impl.cc:488] GPU state invalid after WaitForGetOffsetInRange.
+[0629/215229.189:ERROR:gpu\ipc\client\command_buffer_proxy_impl.cc:488] GPU state invalid after WaitForGetOffsetInRange.
+[0629/215229.192:ERROR:gpu\ipc\client\command_buffer_proxy_impl.cc:488] GPU state invalid after WaitForGetOffsetInRange.
+[0629/215229.194:ERROR:gpu\ipc\client\command_buffer_proxy_impl.cc:488] GPU state invalid after WaitForGetOffsetInRange.
